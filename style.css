@@ -1,32 +1,29 @@
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
+element.style{
 }
-
+.cabecalho-itens {
+    max-width: 1980px;
+    margin: 0 auto;
+    display: flex
+;
+    align-items: center;
+    justify-content: center;
+}
 header {
-  background-color: #004080;
-  color: white;
-  padding: 20px;
+    background-color: #424e61;
+    color: white;
+    width: 100%;
+    padding: 20px;
 }
-
-nav ul {
-  list-style: none;
-  display: flex;
-  gap: 15px;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-
-nav ul li a {
-  color: white;
-  text-decoration: none;
+folha de estilos de agente de usuário
+header {
+    display: block;
+    unicode-bidi: isolate;
 }
-
-section {
-  padding: 20px;
-}
-
-footer {
-  background-color: #f2f2f2;
-  text-align: center;
-  padding: 10px;
+body {
+    font-family: "Poppins", sans-serif;
 }
