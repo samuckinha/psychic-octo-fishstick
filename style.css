@@ -1,29 +1,18 @@
-element.style{
-}
-.cabecalho-itens {
-    max-width: 1980px;
-    margin: 0 auto;
-    display: flex
-;
-    align-items: center;
-    justify-content: center;
-}
-header {
-    background-color: #424e61;
-    color: white;
-    width: 100%;
-    padding: 20px;
+element.style {
 }
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+    /* margin: 0; */
+    /* padding: 0; */
+    /* box-sizing: border-box; */
+}
+html[Attributes Style] {
+    -webkit-locale: "pt-br";
 }
 folha de estilos de agente de usuário
-header {
-    display: block;
-    unicode-bidi: isolate;
+:root {
+    view-transition-name: root;
 }
-body {
-    font-family: "Poppins", sans-serif;
+folha de estilos de agente de usuário
+html {
+    display: block;
 }
