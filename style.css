@@ -1,5 +1,3 @@
-element.style {
-}
 * {
     margin: 0;
     padding: 0;
@@ -70,7 +68,7 @@ element.style {
   }
   
   .estudante {
-    background-color: #eaff05;
+    background-color: #fb05ff;
     padding: 24px 0;
     text-align: center;
   }
